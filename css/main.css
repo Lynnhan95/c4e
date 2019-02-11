@@ -1,0 +1,111 @@
+div.pos_left{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    float: left;
+    padding-top: 20px;
+    width: 400px;
+}
+
+#mainSVG{
+ float: left;
+ padding: 20px;	
+}
+
+#timeLineSVG{
+ padding-bottom: 20px;	
+}
+
+svg {
+}
+
+.link {
+    stroke: #cccccc;
+    stroke-opacity: 0;
+/*    fill: none;*/
+    fill: #5d5d5d;
+    fill-opacity: 0.05;
+    pointer-events: none;
+}
+
+.link1 {
+    /*fill: #da4c31;*/
+    fill: #3E8E64;
+    fill-opacity: 0.15;
+    }
+
+.link2 {
+    /*fill: #287a4d;*/
+    fill: #045C2E;
+    fill-opacity: 0.15;
+}
+
+.link3 {
+    /*fill: #315ea2;*/
+    fill: #04345D;
+    fill-opacity: 0.15;
+}
+
+.node_hover {
+    opacity: 0.25;
+}
+
+.text_hover {
+    opacity: 0.25;
+}
+
+text {
+    font: 350 15px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.text1, .text2, .text3 {
+    font-size: 18px;
+    font-weight: 700;
+    }
+
+.line1 {
+    stroke: #3E8E64; /* PI - red */
+    stroke-width: 2;
+    stroke-opacity: 1;
+    }
+
+.line2 {
+    stroke: #045C2E; /* Action - green */
+    stroke-width: 2;
+    stroke-opacity: 1;
+}
+
+.line3 {
+    stroke: #04345D; /* Sample - blue */
+    stroke-width: 2;
+    stroke-opacity: 1;
+}
+
+#bars{
+  opacity:0.5;	
+}
+
+
+#legend {
+  margin: auto;
+  padding-top: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.toolTip {
+  position: absolute;
+  display: none;
+  min-width: 80px;
+  height: auto;
+  background: none repeat scroll 0 0 #ffffff;
+  border: 1px solid #6F257F;
+  padding: 2px;
+  text-align: center;
+}
+
+.bigLabel{
+	font-size:36px;
+	opacity:0.2;
+	font-weight:bold;	
+}

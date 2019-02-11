@@ -1,0 +1,397 @@
+[
+  {
+    "name": "",
+    "size": 10,
+    "number": 1,
+    "pi": ""
+  },
+  {
+    "name": "",
+    "size": 10,
+    "number": 2,
+    "pi": ""
+  },
+  {
+    "name": "Air Pollutant Monitoring",
+    "size": 1,
+    "number": 3,
+    "description": "<h3>Arequipa Deposition Network: Citizen and Research Network for Assessing Regional Precipitation, Acidity, and Chemical Deposition from the Atmosphere</h3><h4>Greg Michalski and Lisa Welp-Smith</h4><p>Development of an aerosol sampler which will provide chemical and isotopic composition of harmful PM2.5 aerosols and the establishment of a citizen network that collects precipitation amount data and provides samples for chemical/isotope analysis.</p>",
+    "pi": "Michalski and Welp"
+  },
+  {
+    "name": "Clean Water Infrastructure",
+    "size": 1,
+    "number": 4,
+    "description": "<h3>Toward Clean Water: Avoid Intrusion of Contaminants into Irrigation and Water Systems</h3><h4>Emad Elwakil</h4><p>Understand the critical interaction between the pipelines contamination, and surrounding ground. Quantitatively forecast the risk related with water quality. Design and build a risk of contamination model. Propose a risk of contamination scale that provides guidance to decision makers for budget allocation, priority of improvement, and improvement plan. Develop a system to avoid contaminated water and irrigation systems.</p>",
+    "pi": "Elwakil"
+  },
+  {
+    "name": "Crop Physiological Genomics",
+    "size": 1,
+    "number": 5,
+    "description": "<h3>Nexus Crop Physiological Genomics (NCPG): Individual and Institutional Capacity Building for Crop Science at Universidad Nacional de San Agustin (UNSA)</h3><h4>Mohsen Mohammadi and Cankui Zhang</h4><p>Characterize genotype-phenotype relationship and enhance the genetic and physiological understanding of traits that contribute to wheat yield.</p>",
+    "pi": "Mohammadi and Cui"
+  },
+  {
+    "name": "Environmental Robotics",
+    "size": 1,
+    "number": 6,
+    "description": "<h3>Robotic Water Quality Monitoring and Distribution Systems</h3><h4>B.C. Min, Brittany Newell, José Garcia-Bravo, Richard Voyles, and Sara McMillan</h4><p>To develop a low-cost robotic water quality monitoring and distribution system for water and sediment monitoring and analysis of surface water bodies around mines, as well as the distribution of water to downstream areas for irrigation.</p>",
+    "pi": "Min"
+  },
+  {
+    "name": "Equitable Resource Use",
+    "size": 1,
+    "number": 7,
+    "description": "<h3>Equitable Co-existence of Agriculture, Mining and Regional Development in Arequipa: Realities, Barriers and Opportunities</h3><h4>Zhao Ma, Laura Zanotti, and Jonathan Bauchet</h4><p>(1) Investigate how communities across the rural-to-urban gradient perceive and adapt to water availability and quality challenges and (2) identify potential strategies for facilitating the co-existence of agriculture, mining, and regional development in an equitable and sustainable way.</p>",
+    "pi": "Ma and Zanotti"
+  },
+  {
+    "name": "Food Nutrition and Processing",
+    "size": 1,
+    "number": 8,
+    "description": "<h3>Development of low heavy metal, nutritious processed foods from Arequipa-area staple crops with potential novel health attributes</h3><h4>Bruce R. Hamaker</h4><p>Understand the critical interaction between the pipelines contamination, and surrounding ground. Quantitatively forecast the risk related with water quality. Design and build a risk of contamination model. Propose a risk of contamination scale that provides guidance to decision makers for budget allocation, priority of improvement, and improvement plan. Develop a system to avoid contaminated water and irrigation systems.</p>",
+    "pi": "Hamaker"
+  },
+  {
+    "name": "Food Safety - Pathogens",
+    "size": 1,
+    "number": 9,
+    "description": "<h3>Prevalence of Enteric Foodborne Pathogens in High Value Foods Produced in the Arequipa Growing Regions</h3><h4>Haley F. Oliver and Amanda Deering</h4><p>Identification of potential sources of enteric foodborne pathogens among high value foods that may contribute to the burden of disease in the Arequipa region and may inhibit export potential.</p>",
+    "pi": "Oliver and Deering"
+  },
+  {
+    "name": "Food Safety - Pesticides",
+    "size": 1,
+    "number": 10,
+    "description": "<h3>Assessment of Water Quality for Drinking and Agricultural Activities and Level of Pesticide Residue from Locally Grown Fresh Fruits and Vegetables in Arequipa/Peru</h3><h4>Amanda J. Deering and Haley F. Oliver</h4><p>Determing the quality of the drinking and agricultural waters in Peru/Arequipa and the extent of pesticide residues that are present on commercially valuable fruits and vegetables grown in the region.</p>",
+    "pi": "Deering and Oliver"
+  },
+  {
+    "name": "Food Security Center-assessment",
+    "size": 1,
+    "number": 11,
+    "description": "<h3>A Purdue UNSA Initiative to Establish a Center on Food Security in Peru</h3><h4>Gebisa Ejeta, Gary Burniske, Connie Weaver, Sylvie Brouder, J. Ricker-Gilbert, S. Laurel Weldon and Matt. Huber</h4><p>The Purdue Center for Global Food Security (PCGFS) proposes to share knowledge and experience among its many faculty and programs towards the establishment of an UNSA Center for Food Security.</p>",
+    "pi": "Gebisa"
+  },
+  {
+    "name": "Pollutant Sensors",
+    "size": 1,
+    "number": 12,
+    "description": "<h3>Integrated Sensing Systems for Detection of Heavy Metal Contamination Across Food-Water-Environment Nexus</h3><h4>Suranjan Panigrahi, Linda Lee, Jennifer Freeman, Bernie Engel</h4><p>Develop a new sensing system to detect heavy metal contamination in plant and water media. Integrate and assess a high-energy-based plasmon mechanism for detection of arsenic and copper in soil medium.</p>",
+    "pi": "Panigrahi"
+  },
+  {
+    "name": "Postharvest Management",
+    "size": 1,
+    "number": 13,
+    "description": "<h3>Capacity Strengthening Postharvest Management and Business Opportunities in Peru (CAST-PM)</h3><h4>Dieudonne Baributsa, Charlie Woloshuk, and Jacob Ricker-Gilbert</h4><p>The Introduction and promotion of improved postharvest management technologies to reduce postharvest losses in the Arequipa region.</p>",
+    "pi": "Baribusta"
+  },
+  {
+    "name": "Riverine Water Quality",
+    "size": 1,
+    "number": 14,
+    "description": "<h3>As the river runs from mines to the sea: Changes in metal speciation and form, and implications on drinking water treatment.</h3><h4>Chad T. Jafvert and Timothy Filley</h4><p>Elucidating the dynamics of metals within the watersheds, and the discovery of methods to improve drinking water for those that use the rivers as their drinking water source, especially in rural areas.</p>",
+    "pi": "Jafvert and Filley"
+  },
+  {
+    "name": "Soil Health and Visualization",
+    "size": 1,
+    "number": 15,
+    "description": "<h3>Arequipa Region Soil Vulnerability, Impairment and Health Assessment</h3><h4>Timothy Filley, Cliff Johnston, Chad Jafvert, Nicole Kong, Walter Daniel Leon-Salas, Darrell Schulze, Richard Voyles, Diane Stott, Javier Gonzalez, and Chi-Hua-Huang</h4><p>Assessment and training on erosion vulnerability, metal contaminant impairment, and health of soils supporting agriculture in key regions of Arequipa. Create new visualization tools for soil properties - (https://SoilExplorer.net)</p>",
+    "pi": "Filley"
+  },
+  {
+    "name": "Soil to Plant Metal Movement",
+    "size": 1,
+    "number": 16,
+    "description": "<h3>Assessment of of ecological response to heavy metals contamination in agricultural systems</h3><h4>Sara McMillan,  Lori Hoagland,  and  Ron Turco</h4><p>Characterize the impact of heavy metals on soil microbiology, plant growth and ecosystem function in agricultural lands in the Arequipa Region in Peru. Develop remediation and alternative cropping system solutions that are water and energy efficient as well as free of toxic levels of contaminants.</p>",
+    "pi": "McMillan"
+  },
+  {
+    "name": "Teaching Sustainability",
+    "size": 1,
+    "number": 17,
+    "description": "<h3>Creating an Educational Platform for Energy Efficiency & Food, Energy, Water Sustainability in Arequipa</h3><h4>John Sheffield</h4><p>To develop and deliver:an energy efficiency course on energy management, auditing, renewables and hydrogen fuel cell technologies a sustainable development course on the rational uses of natural resources and sustainability principles.</p>",
+    "pi": "Sheffield"
+  },
+  {
+    "name": "Tracing Glacial Water",
+    "size": 1,
+    "number": 18,
+    "description": "<h3>Tracking the movement of glacial meltwater and seasonal precipitation to surface waters and groundwater from the mountains to the down-valley and coastal communities</h3><h4>Marty Frisbee , Lisa Welp, and Marc Caffee</h4><p>Using Stable and rare isotopes to quantify and better understand how glacial meltwater and seasonal precipitation is partitioned into surface water (streamflow) and groundwater, and how hydrological processes in the mountains are connected to the down-valley communities.</p>",
+    "pi": "Frisbee and Welp"
+  },
+  {
+    "name": "Viticulture Center-assessment",
+    "size": 1,
+    "number": 19,
+    "description": "<h3>Elevating the Peruvian Grape and Wine Industry into a Global Competitor through Advancements in Sustainable Agriculture</h3><h4>David Ebert, Christian Butzke, Darrell Schulze, and Timothy Filley</h4><p>Use novel digital soil mapping and data visualization techniques to improve and expand commercial wine grape cultivation in Arequipa and southern Peru.</p>",
+    "pi": "Ebert"
+  },
+  {
+    "name": "Watershed Management",
+    "size": 1,
+    "number": 20,
+    "description": "<h3>A Framework for Sustainable Water Management in the Arequipa Region</h3><h4>Laura Bowling, Indrajeet Chaubey, Keith Cherkauer, Bernard Engel, Jane Frankenberger, Zhao Ma, Linda Prokopy, and  Margaret Gitau</h4><p>Develop stakeholder-driven land use and water management tools, data and a planning framework that will lead to socially, economically and ecologically sustainable agricultural and resource development.</p>",
+    "pi": "Bowling"
+  },
+    {
+    "name": "Net-Zero Building",
+    "size": 1,
+    "number": 21,
+    "description": "<h3>Net Zero Energy Building – Conceptual Design</h3><h4>William Hutzel and Mark Zimpfer</h4><p>Develop collaborative designs of net zero energy buildings that are comfortable, cost effective, functional, innovative, and appealing for the people of the Arequipa region of Peru.</p>",
+    "pi": "Hutzel"
+  },
+  {
+    "name": "",
+    "size": 10,
+    "number": 101,
+    "pi": ""
+  },
+  {
+    "name": "",
+    "size": 10,
+    "number": 102,
+    "pi": ""
+  },
+   {
+    "name": "Breeding",
+    "size": 2,
+    "number": 122,
+    "pi": "",
+    "description": "<h3>Breeding</h3>"
+  },
+  {
+    "name": "Built-Environment Design",
+    "size": 2,
+    "number": 123,
+    "pi": "",
+    "description": "<h3>Built-Environment Design</h3>"
+  },
+  {
+    "name": "Feasability and Need Assessment",
+    "size": 2,
+    "number": 124,
+    "pi": "",
+    "description": "<h3>Feasability and Need Assessment</h3>"
+  },
+  {
+    "name": "Geochemistry",
+    "size": 2,
+    "number": 125,
+    "pi": "",
+    "description": "<h3>Geochemistry</h3>"
+  },
+  {
+    "name": "Metal Pollutants",
+    "size": 2,
+    "number": 126,
+    "pi": "",
+    "description": "<h3>Metal Pollutants</h3>"
+  },
+  {
+    "name": "Microbial Molecular Genetics",
+    "size": 2,
+    "number": 127,
+    "pi": "",
+    "description": "<h3>Microbial Molecular Genetics</h3>"
+  },
+  {
+    "name": "Microbiology",
+    "size": 2,
+    "number": 128,
+    "pi": "",
+    "description": "<h3>Microbiology</h3>"
+  },
+  {
+    "name": "Modeling: Resource Management",
+    "size": 2,
+    "number": 129,
+    "pi": "",
+    "description": "<h3>Modeling: Resource Management</h3>"
+  },
+  {
+    "name": "Modeling: Land Use Management",
+    "size": 2,
+    "number": 130,
+    "pi": "",
+    "description": "<h3>Modeling: Land Use Management</h3>"
+  },
+  {
+    "name": "Modeling: Risk Assessment",
+    "size": 2,
+    "number": 131,
+    "pi": "",
+    "description": "<h3>Modeling: Risk Assessment</h3>"
+  },
+  {
+    "name": "Molecular Genetics",
+    "size": 2,
+    "number": 132,
+    "pi": "",
+    "description": "<h3>Molecular Genetics</h3>"
+  },
+  {
+    "name": "New Course Development",
+    "size": 2,
+    "number": 133,
+    "pi": "",
+    "description": "<h3>New Course Development</h3>"
+  },
+  {
+    "name": "Nutrition",
+    "size": 2,
+    "number": 134,
+    "pi": "",
+    "description": "<h3>Nutrition</h3>"
+  },
+  {
+    "name": "Pathogens",
+    "size": 2,
+    "number": 135,
+    "pi": "",
+    "description": "<h3>Pathogens</h3>"
+  },
+  {
+    "name": "Pesticides",
+    "size": 2,
+    "number": 136,
+    "pi": "",
+    "description": "<h3>Pesticides</h3>"
+  },
+  {
+    "name": "Physiology",
+    "size": 2,
+    "number": 137,
+    "pi": "",
+    "description": "<h3>Physiology</h3>"
+  },
+  {
+    "name": "Questionaires/Surveys",
+    "size": 2,
+    "number": 138,
+    "pi": "",
+    "description": "<h3>Questionaires/Surveys</h3>"
+  },
+  {
+    "name": "Radio Isotopes",
+    "size": 2,
+    "number": 139,
+    "pi": "",
+    "description": "<h3>Radio Isotopes</h3>"
+  },
+  {
+    "name": "Regional Geospatial Patterns",
+    "size": 2,
+    "number": 140,
+    "pi": "",
+    "description": "<h3>Regional Geospatial Patterns</h3>"
+  },
+  {
+    "name": "Soil Health Assessment",
+    "size": 2,
+    "number": 141,
+    "pi": "",
+    "description": "<h3>Soil Health Assessment</h3>"
+  },
+  {
+    "name": "Soil Organic Matter Stability",
+    "size": 2,
+    "number": 142,
+    "pi": "",
+    "description": "<h3>Soil Organic Matter Stability</h3>"
+  },
+  {
+    "name": "Stable Isotopes",
+    "size": 2,
+    "number": 143,
+    "pi": "",
+    "description": "<h3>Stable Isotopes</h3>"
+  },
+  {
+    "name": "Technical Training",
+    "size": 2,
+    "number": 144,
+    "pi": "",
+    "description": "<h3>Technical Training</h3>"
+  },
+  {
+    "name": "",
+    "size": 10,
+    "number": 145,
+    "pi": "",
+    "description": ""
+  },
+  {
+    "name": "",
+    "size": 10,
+    "number": 146,
+    "pi": "",
+    "description": ""
+  },
+  {
+    "name": "Atmospheric Particulates",
+    "size": 3,
+    "number": 247,
+    "pi": "",
+    "description": "<h3>Atmospheric Particulates</h3>"
+  },
+  {
+    "name": "Crops",
+    "size": 3,
+    "number": 248,
+    "pi": "",
+    "description": "<h3>Crops</h3>"
+  },
+  {
+    "name": "Data: Existing Geospatial Data",
+    "size": 3,
+    "number": 249,
+    "pi": "",
+    "description": "<h3>Data: Existing Geospatial Data</h3>"
+  },
+  {
+    "name": "Data: Water Production, Use, and Quality",
+    "size": 3,
+    "number": 250,
+    "pi": "",
+    "description": "<h3>Data: Water Production, Use, and Quality</h3>"
+  },
+  {
+    "name": "Processed Food",
+    "size": 3,
+    "number": 251,
+    "pi": "",
+    "description": "<h3>Processed Food</h3>"
+  },
+  {
+    "name": "Regional Stakeholders",
+    "size": 3,
+    "number": 252,
+    "pi": "",
+    "description": "<h3>Regional Stakeholders</h3>"
+  },
+  {
+    "name": "Sediment",
+    "size": 3,
+    "number": 253,
+    "pi": "",
+    "description": "<h3>Sediment</h3>"
+  },
+  {
+    "name": "Soil",
+    "size": 3,
+    "number": 254,
+    "pi": "",
+    "description": "<h3>Soil</h3>"
+  },
+  {
+    "name": "Water",
+    "size": 3,
+    "number": 255,
+    "pi": "",
+    "description": "<h3>Water</h3>"
+  }
+]

@@ -1,0 +1,479 @@
+[
+  {
+    "index": 1,
+    "project": 12,
+    "action": 126,
+    "sample": 254,
+	"schedule":[1,0,0,0,0,0,0,0,0,0,0,0]
+  },
+  {
+    "index": 2,
+    "project": 12,
+    "action": 126,
+    "sample": 248,
+	"schedule":[1,0,0,0,0,0,0,0,0,0,0,0]
+  },
+  {
+    "index": 3,
+    "project": 12,
+    "action": 126,
+    "sample": 255,
+	"schedule":[1,0,0,0,0,0,0,0,0,0,0,0]
+  },
+  {
+    "index": 4,
+    "project": 18,
+    "action": 139,
+    "sample": 255,
+	"schedule":[0,0,0,1,1,1,1,1,1,1,1,1]
+  },
+  {
+    "index": 5,
+    "project": 18,
+    "action": 143,
+    "sample": 255,
+	"schedule":[0,0,0,1,1,1,1,1,1,1,1,1]
+  },
+  {
+    "index": 6,
+    "project": 18,
+    "action": 127,
+    "sample": 255,
+	"schedule":[0,0,0,1,1,1,1,1,1,1,1,1]
+  },
+  {
+    "index": 7,
+    "project": 18,
+    "action": 144,
+    "sample": 252,
+	"schedule":[0,0,0,1,1,1,1,1,1,1,1,1]
+  },
+  {
+    "index": 8,
+    "project": 5,
+    "action": 122,
+    "sample": 248,
+	"schedule":[0,0,0,1,1,1,1,1,1,1,1,1]
+  },
+  {
+    "index": 9,
+    "project": 5,
+    "action": 137,
+    "sample": 248,
+	"schedule":[0,0,0,1,1,1,1,1,1,1,1,1]
+  },
+  {
+    "index": 10,
+    "project": 5,
+    "action": 132,
+    "sample": 248,
+	"schedule":[0,0,0,0, 1,1,1,1, 1,1,0,0]
+  },
+  {
+    "index": 11,
+    "project": 5,
+    "action": 144,
+    "sample": 252,
+	"schedule":[0,0,0,1,1,1,1,1,1,1,1,1]
+  },
+  {
+    "index": 12,
+    "project": 6,
+    "action": 126,
+    "sample": 255,
+	"schedule":[0,0,0,1,1,1,1,1,1,1,1,0]
+  },
+  {
+    "index": 13,
+    "project": 6,
+    "action": 126,
+    "sample": 253,
+	"schedule":[0,0,0,1,1,1,1,1,1,1,1,0]
+  },
+  {
+    "index": 14,
+    "project": 14,
+    "action": 126,
+    "sample": 255,
+	"schedule":[0,1,1,1, 0,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 15,
+    "project": 14,
+    "action": 126,
+    "sample": 253,
+	"schedule":[0,0,0,0, 1,1,1,1, 1,1,1,0]
+  },
+  {
+    "index": 16,
+    "project": 10,
+    "action": 136,
+    "sample": 255,
+	"schedule":[0,0,1,1, 0,0,1,1, 0,0,1,1]
+  },
+  {
+    "index": 17,
+    "project": 10,
+    "action": 136,
+    "sample": 248,
+	"schedule":[0,0,0,0, 0,0,1,1, 0,0,0,0]
+  },
+  {
+    "index": 18,
+    "project": 10,
+    "action": 136,
+    "sample": 251,
+	"schedule":[0,0,0,0, 0,0,1,1, 0,0,0,0]
+  },
+  {
+    "index": 19,
+    "project": 10,
+    "action": 144,
+    "sample": 252,
+	"schedule":[0,0,0,0, 0,0,0,0, 0,0,0,1]
+  },
+  {
+    "index": 20,
+    "project": 3,
+    "action": 143,
+    "sample": 255,
+	"schedule":[0,0,1,1, 1,1,1,1, 1,1,1,1]
+  },
+  {
+    "index": 21,
+    "project": 3,
+    "action": 126,
+    "sample": 255,
+	"schedule":[0,0,1,1, 1,1,1,1, 1,1,1,1]
+  },
+  {
+    "index": 22,
+    "project": 3,
+    "action": 125,
+    "sample": 255,
+	"schedule":[0,0,1,1, 1,1,1,1, 1,1,1,1]
+  },
+  {
+    "index": 23,
+    "project": 3,
+    "action": 143,
+    "sample": 247,
+	"schedule":[0,0,1,1, 1,1,1,1, 1,1,1,1]
+  },
+  {
+    "index": 24,
+    "project": 3,
+    "action": 126,
+    "sample": 247,
+	"schedule":[0,0,1,1, 1,1,1,1, 1,1,1,1]
+  },
+  {
+    "index": 25,
+    "project": 3,
+    "action": 125,
+    "sample": 247,
+	"schedule":[0,0,1,1, 1,1,1,1, 1,1,1,1]
+  },
+  {
+    "index": 26,
+    "project": 3,
+    "action": 144,
+    "sample": 252,
+	"schedule":[0,0,0,0, 1,1,1,1, 1,1,1,1]
+  },
+  {
+    "index": 27,
+    "project": 16,
+    "action": 126,
+    "sample": 254,
+	"schedule":[0,0,1,1, 0,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 28,
+    "project": 16,
+    "action": 125,
+    "sample": 254,
+	"schedule":[0,1,1,1, 0,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 29,
+    "project": 16,
+    "action": 128,
+    "sample": 254,
+	"schedule":[0,0,0,0, 1,1,1,0, 0,0,0,0]
+  },
+  {
+    "index": 30,
+    "project": 16,
+    "action": 126,
+    "sample": 248,
+	"schedule":[0,1,1,1, 0,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 31,
+    "project": 16,
+    "action": 125,
+    "sample": 255,
+	"schedule":[0,1,1,1, 0,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 32,
+    "project": 16,
+    "action": 126,
+    "sample": 255,
+	"schedule":[0,1,1,1, 0,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 33,
+    "project": 4,
+    "action": 131,
+    "sample": 249,
+	"schedule":[0,0,0,1, 0,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 34,
+    "project": 4,
+    "action": 131,
+    "sample": 250,
+	"schedule":[0,0,0,1, 1,0,0,0, 0,0,0,0]
+  },
+   {
+    "index": 34,
+    "project": 4,
+    "action": 131,
+    "sample": 255,
+	"schedule":[0,0,0,1, 1,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 35,
+    "project": 4,
+    "action": 138,
+    "sample": 252,
+	"schedule":[0,0,0,1, 1,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 36,
+    "project": 8,
+    "action": 134,
+    "sample": 251,
+	"schedule":[0,0,1,1, 1,1,1,0, 0,0,0,0]
+  },
+  {
+    "index": 37,
+    "project": 8,
+    "action": 126,
+    "sample": 251,
+	"schedule":[0,0,1,1, 1,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 38,
+    "project": 8,
+    "action": 138,
+    "sample": 252,
+	"schedule":[0,0,1,1, 0,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 39,
+    "project": 8,
+    "action": 144,
+    "sample": 252,
+	"schedule":[0,0,0,0, 1,1,1,0, 0,0,0,0]
+  },
+  {
+    "index": 40,
+    "project": 20,
+    "action": 130,
+    "sample": 249,
+	"schedule":[1,1,1,1, 1,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 41,
+    "project": 20,
+    "action": 129,
+    "sample": 249,
+	"schedule":[1,1,1,1, 1,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 42,
+    "project": 20,
+    "action": 138,
+    "sample": 252,
+	"schedule":[1,1,1,1, 1,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 43,
+    "project": 20,
+    "action": 144,
+    "sample": 252,
+	"schedule":[1,1,1,1, 1,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 44,
+    "project": 19,
+    "action": 138,
+    "sample": 252,
+	"schedule":[0,0,1,1, 0,1,0,0, 0,0,0,0]
+  },
+  {
+    "index": 45,
+    "project": 19,
+    "action": 124,
+    "sample": 252,
+	"schedule":[0,1,1,1, 1,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 46,
+    "project": 19,
+    "action": 144,
+    "sample": 252,
+	"schedule":[0,1,1,1, 1,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 47,
+    "project": 11,
+    "action": 138,
+    "sample": 252,
+	"schedule":[0,0,1,1, 1,1,0,0, 1,0,0,0]
+  },
+  {
+    "index": 48,
+    "project": 11,
+    "action": 124,
+    "sample": 252,
+	"schedule":[0,0,1,1, 1,1,0,0, 1,0,0,0]
+  },
+  {
+    "index": 49,
+    "project": 11,
+    "action": 144,
+    "sample": 252,
+	"schedule":[0,0,1,1, 1,1,0,0, 1,0,0,0]
+  },
+  {
+    "index": 50,
+    "project": 7,
+    "action": 138,
+    "sample": 252,
+	"schedule":[0,0,1,1, 1,1,0,0, 0,0,0,0]
+  },
+  {
+    "index": 51,
+    "project": 7,
+    "action": 129,
+    "sample": 252,
+	"schedule":[0,0,1,1, 0,0,0,0, 0,0,0,0]
+  },
+  {
+    "index": 52,
+    "project": 7,
+    "action": 144,
+    "sample": 252,
+	"schedule":[0,0,0,0, 0,1,1,0, 0,0,0,0]
+  },
+  {
+    "index": 53,
+    "project": 15,
+    "action": 140,
+    "sample": 249,
+	"schedule":[0,0,0,1, 1,0,0,0, 1,1,1,0]
+  },
+  {
+    "index": 54,
+    "project": 15,
+    "action": 125,
+    "sample": 254,
+	"schedule":[0,0,0,1, 1,0,0,0, 1,1,1,0]
+  },
+  {
+    "index": 55,
+    "project": 15,
+    "action": 140,
+    "sample": 254,
+	"schedule":[0,0,0,1, 1,0,0,0, 1,1,1,0]
+  },
+  {
+    "index": 56,
+    "project": 15,
+    "action": 141,
+    "sample": 254,
+	"schedule":[0,0,0,1, 1,0,0,0, 1,1,1,0]
+  },
+  {
+    "index": 57,
+    "project": 15,
+    "action": 144,
+    "sample": 252,
+	"schedule":[0,0,0,1, 1,0,0,0, 1,1,1,0]
+  },
+  {
+    "index": 58,
+    "project": 15,
+    "action": 143,
+    "sample": 254,
+	"schedule":[0,0,0,1, 1,0,0,0, 1,1,1,0]
+  },
+  {
+    "index": 59,
+    "project": 15,
+    "action": 126,
+    "sample": 254,
+	"schedule":[0,0,0,1, 1,0,0,0, 1,1,1,0]
+  },
+  {
+    "index": 60,
+    "project": 15,
+    "action": 142,
+    "sample": 254,
+	"schedule":[0,0,0,1, 1,0,0,0, 1,1,1,0]
+  },
+  {
+    "index": 61,
+    "project": 9,
+    "action": 135,
+    "sample": 251,
+	"schedule":[0,0,1,1, 0,0,1,1, 0,0,1,1]
+  },
+  {
+    "index": 62,
+    "project": 9,
+    "action": 135,
+    "sample": 248,
+	"schedule":[0,0,0,0, 0,0,1,1, 0,0,0,0]
+  },
+  {
+    "index": 63,
+    "project": 13,
+    "action": 144,
+    "sample": 252,
+	"schedule":[0,0,1,1, 1,1,0,0, 1,0,0,0]
+  },
+  {
+    "index": 64,
+    "project": 13,
+    "action": 138,
+    "sample": 252,
+	"schedule":[0,0,0,1, 1,0,0,0, 1,1,1,0]
+  },
+  {
+    "index": 65,
+    "project": 17,
+    "action": 133,
+    "sample": 252,
+	"schedule":[0,1,1,0, 0,1,1,0, 1,0,0,0]
+  },
+  {
+    "index": 66,
+    "project": 21,
+    "action": 124,
+    "sample": 252,
+	"schedule":[0,0,0,0, 0,0,1,1, 1,0,0,0]
+  },
+    {
+    "index": 66,
+    "project": 21,
+    "action": 123,
+    "sample": 252,
+	"schedule":[0,0,0,0, 0,0,1,1, 1,0,0,0]
+  }  
+   
+]
